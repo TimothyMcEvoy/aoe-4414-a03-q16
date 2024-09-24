@@ -5,7 +5,7 @@
 # Parameters:
 #  o_lat_deg: lattitude angle in degrees
 #  o_lon_deg: longtitude angle in degrees
-#  o_hae_km: Height above earth in km
+#  o_hae_km: Height above earth in km -- hae is actually not necessary at all because we have these other variables!
 #  s_km: s component
 #  e_km: e component
 #  z_km: z component
